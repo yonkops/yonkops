@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I am Yonko Petrov 👋
+<p align="left">
+- 🌱 I’m currently learning Java
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
 
 <!--
 **yonkops/yonkops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
