@@ -1,6 +1,6 @@
 ### Hi there I am Yonko Petrov 👋
 <p align="left">
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java DB
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
